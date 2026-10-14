@@ -1,0 +1,12 @@
+{
+  "name": "context-bar",
+  "description": "The context-bar mod for Claude Code",
+  "owner": { "name": "Iago Macedo", "url": "https://github.com/iagodemacedo" },
+  "plugins": [
+    {
+      "name": "context-bar",
+      "source": "./",
+      "description": "Live context window bar above the prompt, with usage limits, session cost and a one-key handoff"
+    }
+  ]
+}

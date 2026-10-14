@@ -1,0 +1,11 @@
+{
+  "name": "context-bar",
+  "version": "0.1.0",
+  "description": "Live context window bar above the prompt, broken down by category like /context, with usage limits, session cost and a one-key handoff",
+  "author": { "name": "Iago Macedo", "url": "https://github.com/iagodemacedo" },
+  "homepage": "https://github.com/iagodemacedo/context-bar",
+  "repository": "https://github.com/iagodemacedo/context-bar",
+  "license": "MIT",
+  "keywords": ["context", "usage", "rate-limits", "cost", "handoff", "mod"],
+  "types": "./types/index.d.ts"
+}
